@@ -609,7 +609,7 @@ for i,j,k in os.walk(os.getcwd()):
 #پایان پایتون مقدماتی تبرررررررررررییککک
 x=10
 print(x*2)
-
+print('salam')
 
 
 
